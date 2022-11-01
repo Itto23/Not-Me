@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mugtuoso/static/css/main.31ec2498.css",
+    "main.js": "/mugtuoso/static/js/main.7282a152.js",
+    "static/js/787.29662f6f.chunk.js": "/mugtuoso/static/js/787.29662f6f.chunk.js",
+    "static/media/1 1.png": "/mugtuoso/static/media/1 1.72bbbf9c9d481315ea7e.png",
+    "index.html": "/mugtuoso/index.html",
+    "main.31ec2498.css.map": "/mugtuoso/static/css/main.31ec2498.css.map",
+    "main.7282a152.js.map": "/mugtuoso/static/js/main.7282a152.js.map",
+    "787.29662f6f.chunk.js.map": "/mugtuoso/static/js/787.29662f6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ec2498.css",
+    "static/js/main.7282a152.js"
+  ]
+}
